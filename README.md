@@ -10,4 +10,4 @@ How to use?
 Pistol Crate give you 10x Pistol Case when you use Pistol Case script will give you weapon Pistol with 120 ammo.
 In your equipment you can have max 2x [weapon] Crate and 20x [weapon] Case.
 
-Script by Pixel #3683
+Script by Pixel#6068
